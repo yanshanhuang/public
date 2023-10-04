@@ -1,43 +1,21 @@
-import turtle
-import random
+// 在这个示例中，我们将使用p5.js库创建一个简单的煙花藝術效果
 
-# 创建画布和画笔
-canvas = turtle.Screen()
-canvas.bgcolor("white")
-pen = turtle.Turtle()
+function setup() {
+  createCanvas(400, 400);
+  background(0);
+  noLoop();
+}
 
-# 设置画笔速度和颜色
-pen.speed(10)
-colors = ["red", "blue", "green", "orange", "purple"]
+function draw() {
+  for (let i = 0; i < 100; i++) {
+    const x = random(width);
+    const y = random(height);
+    const size = random(10, 50);
+    const color = [random(255), random(255), random(255)];
 
-# 绘制随机图形
-for _ in range(50):
-    # 生成随机位置和大小
-    x = random.randint(-200, 200)
-    y = random.randint(-200, 200)
-    size = random.randint(10, 100)
-
-    # 生成随机颜色
-    color = random.choice(colors)
-
-    # 移动画笔到指定位置
-    pen.penup()
-    pen.goto(x, y)
-    pen.pendown()
-
-    # 设置画笔颜色和填充颜色
-    pen.color(color)
-    pen.fillcolor(color)
-
-    # 绘制图形
-    pen.begin_fill()
-    for _ in range(4):
-        pen.forward(size)
-        pen.right(90)
-    pen.end_fill()
-
-# 隐藏画笔
-pen.hideturtle()
-
-# 结束绘图
-turtle.done()
+    stroke(color);
+    strokeWeight(2);
+    fill(color);
+    ellipse(x, y, size, size);
+  }
+}
