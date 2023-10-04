@@ -1,6 +1,5 @@
 ```javascript
 // 在这个示例中，我们将使用p5.js库创建一个简单的煙花藝術效果
-
 function setup() {
 createCanvas(400, 400);
 background(0);
