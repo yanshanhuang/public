@@ -1,21 +1,35 @@
-// 在这个示例中，我们将使用p5.js库创建一个简单的煙花藝術效果
+# In this example, we'll create a simple fireworks art using Python
 
-function setup() {
-  createCanvas(400, 400);
-  background(0);
-  noLoop();
-}
+import random
+import turtle
 
-function draw() {
-  for (let i = 0; i < 100; i++) {
-    const x = random(width);
-    const y = random(height);
-    const size = random(10, 50);
-    const color = [random(255), random(255), random(255)];
+screen = turtle.Screen()
+screen.bgcolor('black')
 
-    stroke(color);
-    strokeWeight(2);
-    fill(color);
-    ellipse(x, y, size, size);
-  }
-}
+def create_firework():
+    colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple', 'white']
+    size = random.randint(10, 50)
+    x = random.randint(-200, 200)
+    y = random.randint(-200, 200)
+    color = random.choice(colors)
+
+    pen = turtle.Turtle()
+    pen.speed(0)
+    pen.penup()
+    pen.goto(x, y)
+    pen.pendown()
+    pen.color(color)
+
+    for _ in range(36):
+        pen.forward(size)
+        pen.backward(size)
+        pen.right(10)
+
+    pen.penup()
+    pen.hideturtle()
+
+# Create 10 fireworks
+for _ in range(10):
+    create_firework()
+
+turtle.done()
