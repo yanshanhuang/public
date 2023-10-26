@@ -4,3 +4,13 @@ I want to create a game inspired by the airplane game I used to play when I was 
 
 <img width="931" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/59c7db52-6b72-4da0-8cb3-77d96e185d3e">
 Source:https://play.google.com/store/apps/details?id=com.os.airforce&hl=zh_TW&gl=US&pli=1
+
+
+
+
+Skectch
+
+<img width="752" alt="Pasted Graphic 1" src="https://github.com/yanshanhuang/public/assets/146685814/b2ea6077-ba78-4e8f-82fa-0d5667806b4e">
+
+
+
