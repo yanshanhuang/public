@@ -12,5 +12,6 @@ Skectch
 
 <img width="752" alt="Pasted Graphic 1" src="https://github.com/yanshanhuang/public/assets/146685814/b2ea6077-ba78-4e8f-82fa-0d5667806b4e">
 
+Animation Prototype: https://yanshanhuang.github.io/public/Assignment7/
 
 
