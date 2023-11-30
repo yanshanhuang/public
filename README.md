@@ -39,7 +39,7 @@ The essence of connection lies in embracing the grieving face (doll) in the pres
 <img width="1119" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/70fbe8c8-d771-45a4-9854-2f9867cae74c">
 
 
-There are two boxes here: one for Box A.  A individuals need solitude to recharge, when an Box A clicks and plays the tic-tac-toe game on the box, the Box A personality self-charges its energy, and the box lights up,illuminating all the lights. Box A: One side of it features a board game. Once the challenge is completed, Box A's side finishes charging while displaying a calm screen.
+There are two boxes here: one for Box A.  A individuals need solitude to recharge, when we click and plays the tic-tac-toe game on the box A, the Box A personality self-charges its energy, and the box lights up,illuminating all the lights. Box A: One side of it features a board game. Once the challenge is completed, Box A's side finishes charging while displaying a calm screen.
 
 <img width="475" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/a349b6ef-b0ca-4eab-b88f-c686fa3a5362">
 
@@ -69,7 +69,8 @@ Dec 19 : Final presentation in the class
   Ziai, Iris, Vanessa
   
 ## **What problem are you trying to solve and how will code help?**
-Once the final LED lights up on Box E, how can the energy be transmitted to the screen?
+1) Once the finish the first challenge ( the game ) how the signalbe transmitted to the screen to show Box A happy 
+2) Once the final LED lights up on Box B, how can the energy(signal) be transmitted to the screen
 
 ## **Does your project contain a dataset? How is it structured and used in your app?**
 No
