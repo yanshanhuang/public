@@ -56,7 +56,7 @@ Gameplay:
 
 2) The person holding Box A needs to complete Challenge 1 (Game) on the box A to charge it.
    
-3) and then another challenge will show up, it requires persona A to make Box B happy by going and embracing the person holding Box B to complete Box B's charging.
+3) and then another challenge will show up, it requires person A to make Box B happy by going and embracing the person holding Box B to complete Box B's charging.
 
 
 
