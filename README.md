@@ -1,5 +1,5 @@
 
-## **Week 1: (Due Nov 30th)**
+## **Final Project Week 1: (Due Nov 30th)**
 Answer the following questions about your project in the form of a proposal.
 
 
