@@ -71,6 +71,7 @@ Dec 19 : Final presentation in the class
   Ziai, Iris, Vanessa
   
 ## **What problem are you trying to solve and how will code help?**
+The game's code, including how the signal is transmitted to another screen once the user finishes the game.
 
 ## **Does your project contain a dataset? How is it structured and used in your app?**
 No
