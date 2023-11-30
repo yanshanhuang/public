@@ -80,7 +80,7 @@ No
 
 
 ## **What tools, programming languages, hardware etc. do you need?**
-Tools: LED, Box, wires, Arduino,P5
+Tools: LED, Box, wires, Arduino,P5, micro-controller 
 langueges: P5
 
 ## **What technical challenges do you expect?**
