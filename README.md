@@ -71,8 +71,6 @@ Dec 19 : Final presentation in the class
   Ziai, Iris, Vanessa
   
 ## **What problem are you trying to solve and how will code help?**
-1) Once the finish the first challenge ( the game ) how the signalbe transmitted to the screen to show Box A happy 
-2) Once the final LED lights up on Box B, how can the energy(signal) be transmitted to the screen
 
 ## **Does your project contain a dataset? How is it structured and used in your app?**
 No
@@ -85,7 +83,8 @@ Tools: LED, Box, wires, Arduino,P5
 langueges: P5
 
 ## **What technical challenges do you expect?**
-Connection bettw
+1) Once the finish the first challenge ( the game ) how the signalbe transmitted to the screen to show Box A happy 
+2) Once the final LED lights up on Box B, how can the energy(signal) be transmitted to the screen
 
 ## **What help do you need? (teachers, classmates or the internet)**
 Teacher
