@@ -39,7 +39,7 @@ The essence of connection lies in embracing the grieving face (doll) in the pres
 <img width="1119" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/70fbe8c8-d771-45a4-9854-2f9867cae74c">
 
 
-There are two boxes here: one for Box A.  A individuals need solitude to recharge, when we click and plays the tic-tac-toe game on the box A, the Box A personality self-charges its energy, and the box lights up,illuminating all the lights. Box A: One side of it features a board game. Once the challenge is completed, Box A's side finishes charging while displaying a calm screen.
+There are two boxes here: one for Box A.  A individuals need solitude to recharge, when we click and play game on the box A, the Box A personality self-charges its energy, and the box lights up,illuminating all the lights. Box A: One side of it features a board game. Once the challenge is completed, Box A's side finishes charging while displaying a calm screen.
 
 <img width="475" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/a349b6ef-b0ca-4eab-b88f-c686fa3a5362">
 
