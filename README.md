@@ -62,7 +62,9 @@ Gameplay:
 
 ## **What is your main idea and goals of the project each week?** 
 Dec 7 :  Pretest version on the technical part 
+
 Dec 14 : Final verison - Decoration
+
 Dec 19 : Final presentation in the class 
 
 ## **Who are you working with?** 
