@@ -26,6 +26,8 @@ How to convey the meaning of “connection”:
 The essence of connection lies in embracing the grieving face (doll) in the present moment. Everything becomes interconnected; emotions are transmitted, and positive energy, much like a temperature sensor, is conveyed forward. The connected energy diminishes the original sadness and unhappiness in the person opposite, transforming it into a smile. Thus, the interaction occurs when people hug the doll, and the screen on the computer displays a happy face.
 
 
+
+
 3: Around
 
 <img width="725" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/ac7e4b19-2a6d-49b4-89e1-73bd8a96cc2d">
