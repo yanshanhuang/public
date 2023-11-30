@@ -43,7 +43,7 @@ There are two boxes here: one for Box A.  A individuals need solitude to recharg
 
 <img width="475" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/a349b6ef-b0ca-4eab-b88f-c686fa3a5362">
 
-At this point, Box A receives a signal from Box B, indicating that B is currently feeling unhappy and needs an embrace for recharging. When these two boxes embrace each other, energy is transferred. The original expression of Box B (the screen showing a disheartened face) turns into a smiley face because the charging process is successful.
+When the game is completed, Box A receives a signal from Box B, indicating that B is currently feeling unhappy and needs an embrace for recharging. As these two boxes embrace each other, energy is transferred. The original expression on Box B (the screen displaying a down face) turns into a smiley face, signifying the successful completion of the charging process
 
 <img width="484" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/0b84a640-9e40-44d1-8a52-619930ff7050">
 
