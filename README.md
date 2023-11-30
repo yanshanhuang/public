@@ -16,7 +16,6 @@ At the end of the year, hope you can slow down, and spend some time with yoursel
 <img width="724" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/10cf9d71-7b83-459b-9681-7330bf1277ad">
 
 
-
 2: Experience HUB: Hep people experience understanding the deep meaning of certain words 
 
 How to convey the meaning of “connection”:
@@ -28,6 +27,7 @@ The essence of connection lies in embracing the grieving face (doll) in the pres
 
 
 3: Around
+
 <img width="725" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/ac7e4b19-2a6d-49b4-89e1-73bd8a96cc2d">
 
 
