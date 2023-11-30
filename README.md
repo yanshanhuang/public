@@ -52,8 +52,10 @@ At this point, Box A receives a signal from Box B, indicating that B is currentl
 ## **How to play**
 Gameplay:
 
-1)This game requires two people to play together.One person holds Box A, and the other person holds Box B.
-2) The person holding Box A needs to complete Challenge 1 (Game) on the box A to charge it, 
+1) This game requires two people to play together.One person holds Box A, and the other person holds Box B.
+
+2) The person holding Box A needs to complete Challenge 1 (Game) on the box A to charge it.
+   
 3) and then another challenge will show up, it requires persona A to make Box B happy by going and embracing the person holding Box B to complete Box B's charging.
 
 
