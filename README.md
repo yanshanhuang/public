@@ -36,11 +36,26 @@ The essence of connection lies in embracing the grieving face (doll) in the pres
 
 
 ## **Final idea** 
-There are two boxes here: one for introverted individuals, Box I. Because introverted individuals need solitude to recharge, when an introverted person (Box I) clicks and plays the tic-tac-toe game on the box, the Box I personality self-charges its energy, and the box lights up just like an introverted person, illuminating all the lights.
-
-The other box is for extroverted individuals, Box E. They need external sources to gain energy. At this moment, the extroverted box feels very disheartened. When these two boxes embrace each other, energy is transferred. The original expression of Box E (the screen showing a disheartened face) turns into a smiley face because the charging process is successful.
-
 <img width="1119" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/70fbe8c8-d771-45a4-9854-2f9867cae74c">
+
+
+There are two boxes here: one for Box A.  A individuals need solitude to recharge, when an Box A clicks and plays the tic-tac-toe game on the box, the Box A personality self-charges its energy, and the box lights up,illuminating all the lights. Box A: One side of it features a board game. Once the challenge is completed, Box A's side finishes charging while displaying a calm screen.
+
+<img width="475" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/a349b6ef-b0ca-4eab-b88f-c686fa3a5362">
+
+At this point, Box A receives a signal from Box B, indicating that B is currently feeling unhappy and needs an embrace for recharging. When these two boxes embrace each other, energy is transferred. The original expression of Box B (the screen showing a disheartened face) turns into a smiley face because the charging process is successful.
+
+<img width="484" alt="image" src="https://github.com/yanshanhuang/public/assets/146685814/0b84a640-9e40-44d1-8a52-619930ff7050">
+
+
+
+## **How to play**
+Gameplay:
+
+1)This game requires two people to play together.One person holds Box A, and the other person holds Box B.
+2) The person holding Box A needs to complete Challenge 1 (Game) on the box A to charge it, 
+3) and then another challenge will show up, it requires persona A to make Box B happy by going and embracing the person holding Box B to complete Box B's charging.
+
 
 
 ## **What is your main idea and goals of the project each week?** 
